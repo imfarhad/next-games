@@ -3,17 +3,10 @@ import { connect } from 'react-redux';
 import { apiRequest } from './service.action'
 
 class ServiceStatus extends Component{
-    constructor(props){
-        super(props);
-        this.state = {
-            time: Date.now()
-        }
-    }
+
     componentDidMount(){
         this.props.onApiRequest();
-        setInterval(
-            () => this.props.onApiRequest(), 5000
-        )
+        setInterval(() => this.props.onApiRequest(), 600000)
     }
 
     componentWillUnmount(){
