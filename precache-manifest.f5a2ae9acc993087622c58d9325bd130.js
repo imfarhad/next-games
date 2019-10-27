@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d222c40679be29d1e277f0c6c5f3d143",
+    "revision": "f17f1fbe883935505ac4e213f0121f39",
     "url": "/next-games/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/next-games/static/js/2.967a9b9e.chunk.js"
   },
   {
-    "revision": "e2fd61e7d7999e391724",
-    "url": "/next-games/static/js/main.b98494b4.chunk.js"
+    "revision": "77a316230c6a16d84b86",
+    "url": "/next-games/static/js/main.13456268.chunk.js"
   },
   {
     "revision": "b37c541cf4d3218d56f8",
